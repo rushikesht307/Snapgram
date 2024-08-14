@@ -10,7 +10,6 @@ Snapgram is a modern social media application built with Vite, React, Tailwind C
 - **Feed:** A dynamic feed showing the latest posts from users.
 - **Post Creation:** Users can create, edit, and delete their posts.
 - **Comments and Likes:** Interactive commenting and liking system.
-- **Dark Mode:** Toggle between light and dark themes.
 
 ## Tech Stack
 
@@ -21,16 +20,16 @@ Snapgram is a modern social media application built with Vite, React, Tailwind C
 
 To get started with Snapgram, follow these steps:
 
-1. **Clone the repository:**
+1. Clone the repository:**
 
    ```bash
    git clone https://github.com/yourusername/snapgram.git
    cd snapgram
-2.Install dependencies:
-npm install
-3.Start the development server:
-npm run dev
-4.Usage
+2. Install dependencies:
+- npm install
+3. Start the development server:
+- npm run dev
+4. Usage
 
 After running npm run dev, the application should be available at http://localhost:3000. You can explore the features, create a user account, and start interacting with other users.
 
